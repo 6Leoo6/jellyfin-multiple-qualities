@@ -1,0 +1,1 @@
+A Jellyfin plugin that automatically transcodes media into different bitrates or codecs in the background and stores the converted files permanently. This allows users to download optimized versions for offline playback with reduced storage usage while keeping the original quality available on the server.
